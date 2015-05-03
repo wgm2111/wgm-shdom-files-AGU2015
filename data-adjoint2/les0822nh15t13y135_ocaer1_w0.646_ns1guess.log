@@ -70,8 +70,8 @@ les0822nh15t13y135_ocaer1_w0.646_ns1guess.adj
  Rayleigh total atmosphere optical depth:    5.0269465934799501E-002
  Starting solution iterations for SHDOM run: 
  les0822nh15t13y135_ocaer1_w0.646_ns1guess
-rms of I radiance residuals:   0.00469
-Approximate total CPU time used (sec)      3.36
-  27.07   1.000 0.209 0.985  Actual MAX_TOTAL_MB, ADAPT_GRID_FACTOR, NUM_SH_TERM_FACTOR, CELL_TO_POINT_RATIO
-3.34user 0.02system 0:03.39elapsed 99%CPU (0avgtext+0avgdata 45092maxresident)k
-8inputs+4184outputs (0major+11497minor)pagefaults 0swaps
+rms of I radiance residuals:   0.00500
+Approximate total CPU time used (sec)      3.29
+  27.85   1.000 0.215 0.985  Actual MAX_TOTAL_MB, ADAPT_GRID_FACTOR, NUM_SH_TERM_FACTOR, CELL_TO_POINT_RATIO
+3.27user 0.02system 0:03.30elapsed 99%CPU (0avgtext+0avgdata 46196maxresident)k
+0inputs+4232outputs (0major+11777minor)pagefaults 0swaps

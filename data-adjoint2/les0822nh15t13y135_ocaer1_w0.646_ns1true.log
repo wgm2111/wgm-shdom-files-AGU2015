@@ -71,7 +71,7 @@ les0822nh15t13y135_ocaer1_w0.646_ns1true.adj
  Starting solution iterations for SHDOM run: 
  les0822nh15t13y135_ocaer1_w0.646_ns1true
 rms of I radiance residuals:   0.00000
-Approximate total CPU time used (sec)      3.23
-  26.80   1.000 0.205 0.985  Actual MAX_TOTAL_MB, ADAPT_GRID_FACTOR, NUM_SH_TERM_FACTOR, CELL_TO_POINT_RATIO
-3.18user 0.04system 0:03.23elapsed 99%CPU (0avgtext+0avgdata 44724maxresident)k
-0inputs+4184outputs (0major+11404minor)pagefaults 0swaps
+Approximate total CPU time used (sec)      3.27
+  27.59   1.000 0.211 0.985  Actual MAX_TOTAL_MB, ADAPT_GRID_FACTOR, NUM_SH_TERM_FACTOR, CELL_TO_POINT_RATIO
+3.24user 0.03system 0:03.27elapsed 99%CPU (0avgtext+0avgdata 45844maxresident)k
+0inputs+4232outputs (0major+11691minor)pagefaults 0swaps
