@@ -1,0 +1,77 @@
+
+ Name of this SHDOMADJ run:
+les0822nh15t13y135_ocaer1_w0.646_ns1true                                        
+ Input particle properties filename (or NONE for Rayleigh only)
+les0822nh15t13y135_ocaer1t.part                                                 
+ Number of input scattering tables
+            2
+ Name of each scattering table
+water_w0.646.scat                                                       
+aero_oc_w0.646.scat                                                     
+ Index or type of each scattering table
+  1  2
+ Polarization flag (T or F) for each scattering table
+ T T
+ Wavelength for Rayleigh molecular scattering (micron)
+   0.6460000000000000     
+ Surface pressure for Rayleigh molecular scattering (mb or hPa)
+    1010.000000000000     
+ Number of extra Z levels
+   0
+ Surface properties file name (or NONE)
+ NONE                                                                            
+ Correlated k-distribution file name (or NONE)
+ NONE                                                                            
+ Number of Stokes parameters (1, 3, or 4; 1=unpolarized)
+            1
+ Number of discrete ordinates in mu and phi
+           16           32
+ Independent pixel approximation (0,1,2,3)
+            0
+ Delta-M method (T,F)
+  T
+ Thermal, solar, or both source (T, S, B)
+ S
+ Solar flux and direction (F, mu, phi[deg])
+    1.000000000000000       -0.9221000000000000         339.4000000000000     
+ Isotropic sky radiance
+    0.000000000000000     
+ Ground albedo
+   5.0000000000000003E-002
+ Wavelength (micron)
+   0.6460000000000000     
+ Cell splitting and spherical harmonic series accuracy
+   2.9999999999999999E-002   3.0000000000000001E-003
+ Acceleration flag (T or F), solution accuracy, and max iterations
+  T   3.0000000000000001E-005            0
+ Radiance grid output Z level, number in X and Y
+    15.00000000000000               320            1
+ Number of radiance directions output
+            1
+ Radiance mu, phi[deg] pairs
+    1.000000000000000         0.000000000000000     
+ Radiance output file name
+les0822nh15t13y135_ocaer1_w0.646_ns1true.arad                                   
+ Observed radiance input file name (or NONE)
+les0822nh15t13y135_ocaer1_w0.646_ns1true.arad                                   
+ Observed radiance uncertainty (sigma)
+   2.9999999999999999E-002
+ Adjoint output file name
+les0822nh15t13y135_ocaer1_w0.646_ns1true.adj                                    
+ Approximate maximum memory to use (MB for 4 byte reals)
+    2000.000000000000     
+ Ratio of total grid points to base grid points (>=1.0)
+    5.000000000000000     
+ Ratio of average number of spherical harmonic terms to total possible (<=1.0)
+   0.9500000000000000     
+ Ratio of number of grid cells to grid points (1.0 to 2.0)
+    1.500000000000000     
+
+ Rayleigh total atmosphere optical depth:    5.0269465934799501E-002
+ Starting solution iterations for SHDOM run: 
+ les0822nh15t13y135_ocaer1_w0.646_ns1true
+rms of I radiance residuals:   0.00000
+Approximate total CPU time used (sec)      3.23
+  26.80   1.000 0.205 0.985  Actual MAX_TOTAL_MB, ADAPT_GRID_FACTOR, NUM_SH_TERM_FACTOR, CELL_TO_POINT_RATIO
+3.18user 0.04system 0:03.23elapsed 99%CPU (0avgtext+0avgdata 44724maxresident)k
+0inputs+4184outputs (0major+11404minor)pagefaults 0swaps
