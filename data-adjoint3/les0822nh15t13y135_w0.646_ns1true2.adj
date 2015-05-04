@@ -1,5 +1,6 @@
 ! SHDOMADJ optical property adjoint output
-!   X       Y       Z      Extinct  SSalbedo  dMF/dExt  dMF/dSSalb  dMF/dP(Theta_j)    [MF=misfit function]
+! 
+  X       Y       Z      Extinct  SSalbedo  dMF/dExt  dMF/dSSalb  dMF/dP(Theta_j)    
   0.0000  0.0000 -0.0087    0.00574 1.000000  0.000E+00  0.000E+00  0.000E+00
   0.0000  0.0000  0.0095    0.00574 1.000000  0.000E+00  0.000E+00  0.000E+00
   0.0000  0.0000  0.0315    0.00573 1.000000  0.000E+00  0.000E+00  0.000E+00
