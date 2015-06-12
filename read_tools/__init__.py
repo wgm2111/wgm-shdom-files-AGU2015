@@ -11,4 +11,6 @@ The package contains tools for reading SHDOM files.
 
 
 
+from read_functions import read_adj, read_arad
+
 
